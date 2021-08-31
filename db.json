@@ -1,0 +1,40 @@
+{
+  "partlist": [
+    {"id": 1, "name": "honda", "partNumber":  [
+      "01432SAET01",
+      "01433SAA010",
+      "01433SE0010",
+      "01462SDBA01",
+      "01463S04000",
+      "01463S04910"
+    ]}, 
+    {"id": 2, "name": "toyota", "partNumber":  [
+      "041110C210",
+      "041110D090",
+      "0411178A00",
+      "041117C093",
+      "04111BZ025"
+    ]}
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "jakarta",
+      "districts": [
+        { "id": 1, "name": "jakarta utara" },
+        { "id": 2, "name": "jakarta selatan" },
+        { "id": 3, "name": "jakarta barat" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sumatera utara",
+      "districts": [
+        { "id": 4, "name": "Medan area" },
+        { "id": 5, "name": "Medan helvetia" },
+        { "id": 6, "name": "Medan Selayang" },
+        { "id": 7, "name": "Medan Helvetia" }
+      ]
+    }
+  ]
+}
