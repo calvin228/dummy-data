@@ -36,5 +36,9 @@
         { "id": 7, "name": "Medan Helvetia" }
       ]
     }
+  ],
+  "segmenations": [
+    {"id": 1, "name": "Supplier"},
+    {"id": 2, "name": "Selected Customer"}
   ]
 }
