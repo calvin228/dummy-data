@@ -1,35 +1,33 @@
 {
   "partlist": [
-    {"id": 1, "name": "honda", "partNumber":  [
-      "01432SAET01",
-      "01433SAA010",
-      "01433SE0010",
-      "01462SDBA01",
-      "01463S04000",
-      "01463S04910",
-      "17048SNCL01"
-    ]}, 
-    {"id": 2, "name": "toyota", "partNumber":  [
-      "041110C210",
-      "041110D090",
-      "0411178A00",
-      "041117C093",
-      "04111BZ025"
-    ]},
-    {"id": 3, "name": "mitsubishi", "partNumber":  [
-      "4062A085",
-      "MD186122",
-      "MR569150",
-      "MD300587",
-      "4605B949",
-      "MB193297B1",
-      "MB906052"
-    ]},
-    {"id": 4, "name": "suzuki", "partNumber":  [
-      "0211206128P000",
-      "0211206168P000",
-      "0211236163P000"
-    ]}
+    {"brand": "honda", "partNumber": "01432SAET01"},
+    {"brand": "honda", "partNumber": "01433SAA010"},
+    {"brand": "honda", "partNumber": "01433SE0010"},
+    {"brand": "honda", "partNumber": "01462SDBA01"},
+    {"brand": "honda", "partNumber": "01463S04000"},
+    {"brand": "honda", "partNumber": "01463S04910"},
+    {"brand": "honda", "partNumber": "17048SNCL01"},
+    {"brand": "toyota", "partNumber": "041110C210"},
+    {"brand": "toyota", "partNumber": "041110D090"},
+    {"brand": "toyota", "partNumber": "0411178A00"},
+    {"brand": "toyota", "partNumber": "041117C093"},
+    {"brand": "toyota", "partNumber": "04111BZ025"},
+    {"brand": "mitsubishi", "partNumber": "4062A085"},
+    {"brand": "mitsubishi", "partNumber": "MD186122"},
+    {"brand": "mitsubishi", "partNumber": "MR569150"},
+    {"brand": "mitsubishi", "partNumber": "MD300587"},
+    {"brand": "mitsubishi", "partNumber": "4605B949"},
+    {"brand": "mitsubishi", "partNumber": "MB193297B1"},
+    {"brand": "mitsubishi", "partNumber": "MB906052"},
+    {"brand": "suzuki", "partNumber": "0211206128P000"},
+    {"brand": "suzuki", "partNumber": "0211206168P000"},
+    {"brand": "suzuki", "partNumber": "0211236163P000"}
+  ],
+  "brands": [
+    {"id": 1, "name": "honda"},
+    {"id": 2, "name": "toyota"},
+    {"id": 3, "name": "mitsubishi"},
+    {"id": 4, "name": "suzuki"}
   ],
   "cities": [
     {
