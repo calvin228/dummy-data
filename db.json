@@ -1,57 +1,7 @@
 {
-  "partlist": [
-    {"brand": "1", "partNumber": "01432SAET01"},
-    {"brand": "1", "partNumber": "01433SAA010"},
-    {"brand": "1", "partNumber": "01433SE0010"},
-    {"brand": "1", "partNumber": "01462SDBA01"},
-    {"brand": "1", "partNumber": "01463S04000"},
-    {"brand": "1", "partNumber": "01463S04910"},
-    {"brand": "1", "partNumber": "17048SNCL01"},
-    {"brand": "2", "partNumber": "041110C210"},
-    {"brand": "2", "partNumber": "041110D090"},
-    {"brand": "2", "partNumber": "0411178A00"},
-    {"brand": "2", "partNumber": "041117C093"},
-    {"brand": "2", "partNumber": "04111BZ025"},
-    {"brand": "3", "partNumber": "4062A085"},
-    {"brand": "3", "partNumber": "MD186122"},
-    {"brand": "3", "partNumber": "MR569150"},
-    {"brand": "3", "partNumber": "MD300587"},
-    {"brand": "3", "partNumber": "4605B949"},
-    {"brand": "3", "partNumber": "MB193297B1"},
-    {"brand": "3", "partNumber": "MB906052"},
-    {"brand": "4", "partNumber": "0211206128P000"},
-    {"brand": "4", "partNumber": "0211206168P000"},
-    {"brand": "4", "partNumber": "0211236163P000"}
+  "entity": [
+    {id: 1, name: "Tokoparts Branch - Jakarta"},
+    {id: 2, name: "Tokoparts Branch - Surabaya"},
+    {id: 3, name: "Tokoparts Branch - Bali"},
   ],
-  "brands": [
-    {"id": 1, "name": "honda"},
-    {"id": 2, "name": "toyota"},
-    {"id": 3, "name": "mitsubishi"},
-    {"id": 4, "name": "suzuki"}
-  ],
-  "cities": [
-    {
-      "id": 1,
-      "name": "jakarta",
-      "districts": [
-        { "id": 1, "name": "jakarta utara" },
-        { "id": 2, "name": "jakarta selatan" },
-        { "id": 3, "name": "jakarta barat" }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Sumatera utara",
-      "districts": [
-        { "id": 4, "name": "Medan area" },
-        { "id": 5, "name": "Medan helvetia" },
-        { "id": 6, "name": "Medan Selayang" },
-        { "id": 7, "name": "Medan Helvetia" }
-      ]
-    }
-  ],
-  "segmenations": [
-    {"id": 1, "name": "Supplier"},
-    {"id": 2, "name": "Selected Customer"}
-  ]
 }
